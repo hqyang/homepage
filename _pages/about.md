@@ -2,16 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.sztu.edu.cn/'>Shenzhen Technology University</a>. Email: haiqin[dot]yang[at]gmail[dot]com or yanghaiqin[at]sztu[dot]edu[dot]cn. Motto: The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding. (Proverbs 9:10)
+
+ 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Rm. C1-1707</p>
+    <p>No. 3002, Lantian Road, Pingshan District</p>
+    <p>Shenzhen, Guangdong, China, 518118</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
