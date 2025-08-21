@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hqyang.github.io/test_Jekyll/sitemap.xml
+Sitemap: https://hqyang.github.io/homepage/sitemap.xml
