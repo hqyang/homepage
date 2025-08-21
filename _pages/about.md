@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.sztu.edu.cn/'>Shenzhen Technology University</a>. Email: haiqin[dot]yang[at]gmail[dot]com or yanghaiqin[at]sztu[dot]edu[dot]cn. Motto: The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding. (Proverbs 9:10)
+subtitle: <a href='https://www.sztu.edu.cn/'>Shenzhen Technology University</a>. Motto: The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding. (Proverbs 9:10)
 
  
 
