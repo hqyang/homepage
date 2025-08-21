@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Haiqin Yang is a full-professor at [Shenzhen Technology University](www.sztu.edu.cn), with research interests in 1) Large Language Models (LLMs)/GenAI Basics: New architecture exploration, modular efficiency, agentic AI, AI security, etc.; and 2) GenAI + X: Data analytics in finance, marketing, and education, etc.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before that, he worked in R&D at IDEA, Ping An Life, and Meitu (China). He has also served as an adjunct associate professor in the Department of Decision Sciences and Managerial Economics at The Chinese University of Hong Kong (CUHK), and as an assistant professor in the Department of Computing, where he was the deputy director of the Deep Learning Research and Application Centre at Hang Seng Management College.  He earned his Ph.D. in the Department of Computer Science and Engineering at CUHK, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/~king) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/~lyu).  Additionally, he held an MPhil degree from the same department at CUHK and a Bachelor of Science degree from the Computer Science and Technology Department at Nanjing University
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
