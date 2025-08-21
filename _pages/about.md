@@ -29,7 +29,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Haiqin Yang is a full-professor at [Shenzhen Technology University](www.sztu.edu.cn), with research interests in 1) Large Language Models (LLMs)/GenAI Basics: New architecture exploration, modular efficiency, agentic AI, AI security, etc.; and 2) GenAI + X: Data analytics in finance, marketing, and education, etc.
+Haiqin Yang is a full-professor at [Shenzhen Technology University](www.sztu.edu.cn), with research interests in 
+1) *Large Language Models (LLMs)/GenAI Basics*: New architecture exploration, modular efficiency, agentic AI, AI security, etc.; and
+2) *GenAI + X*: Data analytics in finance, marketing, and education, etc.
 
 Before that, he worked in R&D at IDEA, Ping An Life, and Meitu (China). He has also served as an adjunct associate professor in the Department of Decision Sciences and Managerial Economics at The Chinese University of Hong Kong (CUHK), and as an assistant professor in the Department of Computing, where he was the deputy director of the Deep Learning Research and Application Centre at Hang Seng Management College.  He earned his Ph.D. in the Department of Computer Science and Engineering at CUHK, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/~king) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/~lyu).  Additionally, he held an MPhil degree from the same department at CUHK and a Bachelor of Science degree from the Computer Science and Technology Department at Nanjing University.
 
