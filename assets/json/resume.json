@@ -1,48 +1,48 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Haiqin Yang",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "yanghaiqin@sztu.edu.cn",
+    "phone": "(86) ",
+    "url": "https://hqyang.github.io",
+    "summary": "A machine learning researcher with a focus on Generative AI and its applications. I focus on developing innovative solutions that leverage the power of AI to solve real-world problems.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "No. 3002, Lantian Road, Pingshan District",
+      "postalCode": "518118",
+      "city": "Shenzhen",
+      "countryCode": "China",
+      "region": "Guangdong"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Google scholar",
+        "username": "Haiqin Yang",
+        "url": "https://scholar.google.com/citations?user=nfijDy4AAAAJ&hl=zh-CN"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "College of Big Data and Internet, Shenzhen Technology University",
+      "position": "Full Professor",
+      "url": "https://bdi.sztu.edu.cn/szdw/jytd/jxjs.htm",
+      "startDate": "2025-06-10",
+      "endDate": "",
+      "summary": "Teaching and researching at NLP and AI-related areas",
+      "highlights": [""]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "",
+      "location": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": ".",
+      "highlights": []
     }
   ],
   "education": [

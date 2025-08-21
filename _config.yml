@@ -1,3 +1,7 @@
+# @Author: Haiqin Yang
+# @Date:   2025-08-21 16:12:55
+# @Last Modified by:   Haiqin Yang
+# @Last Modified time: 2025-08-21 19:39:24
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
@@ -261,8 +265,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Yang]
+  first_name: [Haiqin]
 
   style: apa
   locale: en
@@ -337,6 +341,14 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
+    - _pages/blog.md
+    - _pages/projects.md
+    - _pages/repositories.md
+    - _pages/cv.md
+    - _pages/people.md
+    - _pages/submenus.md
+    - _posts/
+  - _projects/?_project.md
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
