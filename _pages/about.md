@@ -24,12 +24,12 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Haiqin Yang is a full-professor at [Shenzhen Technology University](www.sztu.edu.cn), with research interests in 
+Dr. Haiqin Yang is a full-professor at [Shenzhen Technology University](www.sztu.edu.cn), with research interests in 
 1) **Large Language Models (LLMs)/GenAI Basics**: New architecture exploration, modular efficiency, agentic AI, LLM Security, etc.; and
 2) **GenAI + X**: Data analytics in finance, marketing, and education, etc.
 
