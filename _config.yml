@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-21 16:12:55
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2025-08-22 11:10:42
+# @Last Modified time: 2025-08-22 11:23:51
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
@@ -345,7 +345,7 @@ enable_publication_thumbnails: true
 # -----------------------------------------------------------------------------
 
 # These are the defaults
-prof_pic.png
+external_links:
   enabled: true
   rel: external nofollow noopener
   target: _blank
