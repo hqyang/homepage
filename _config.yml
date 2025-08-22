@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-21 16:12:55
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2025-08-21 19:39:24
+# @Last Modified time: 2025-08-22 11:10:42
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
@@ -193,6 +193,15 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog.md
+  - _pages/projects.md
+  - _pages/repositories.md
+  - _pages/cv.md
+  - _pages/people.md
+  - _pages/submenus.md
+  - _posts/
+  - _projects/?_project.md
+
 keep_files:
   - CNAME
   - .nojekyll
@@ -336,19 +345,11 @@ enable_publication_thumbnails: true
 # -----------------------------------------------------------------------------
 
 # These are the defaults
-external_links:
+prof_pic.png
   enabled: true
   rel: external nofollow noopener
   target: _blank
   exclude:
-    - _pages/blog.md
-    - _pages/projects.md
-    - _pages/repositories.md
-    - _pages/cv.md
-    - _pages/people.md
-    - _pages/submenus.md
-    - _posts/
-  - _projects/?_project.md
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
