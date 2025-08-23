@@ -289,7 +289,6 @@ scholar:
   bibtex_filters: [latex, smallcaps, superscript]
   services: services.bib
   services_template: bib
-  
 
   replace_strings: true
   join_strings: true
