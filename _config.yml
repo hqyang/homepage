@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-21 16:12:55
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2025-08-23 10:30:42
+# @Last Modified time: 2025-08-23 11:03:24
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
@@ -287,6 +287,9 @@ scholar:
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
+  services: services.bib
+  services_template: bib
+  
 
   replace_strings: true
   join_strings: true
