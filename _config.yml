@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-21 16:12:55
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2025-08-23 11:03:24
+# @Last Modified time: 2025-08-23 11:14:13
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
@@ -198,7 +198,7 @@ exclude:
   - _pages/repositories.md
   - _pages/cv.md
   - _pages/profiles.md
-  - _pages/submenus.md
+  - _pages/drowdown.md
   - _posts/
   - _projects/?_project.md
 
