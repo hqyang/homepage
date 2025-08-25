@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description:   
+description:
 nav: true
 nav_order: 6
 ---
@@ -22,7 +22,6 @@ Tell me and I forget. Teach me and I remember. Involve me and I learn.
 <p style="text-align: right; margin-top: 0.5rem; font-size: 1rem; font-style: normal;">-- Benjamin Franklin</p>
 <br><br>
 </blockquote>
-
 
 #### Sept. 2025-: Teaching at SZTU
 
