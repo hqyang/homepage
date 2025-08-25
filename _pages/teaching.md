@@ -2,21 +2,27 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Tell me and I forget. Teach me and I remember. Involve me and I learn.<br>
-  – Benjamin Franklin
+description:   
 nav: true
 nav_order: 6
 ---
 
 <!--
-   <div class="quote-classic">
-    <p>Tell me and I forget.</p>
-    <p>Teach me and I remember.</p>
-    <p>Involve me and I learn.</p>
-    <p class="quote-author">– Benjamin Franklin</p>
-    </div>
-
+<div class="quote-classic">
+<p>Tell me and I forget.</p>
+<p>Teach me and I remember.</p>
+<p>Involve me and I learn.</p>
+<p class="quote-author">– Benjamin Franklin</p>
+</div>
+Tell me and I forget. Teach me and I remember. Involve me and I learn. – Benjamin Franklin<br>
+– <span style="font-style: normal; color: #666;"></span>
 -->
+<blockquote style="max-width: 900px; margin: 1.2rem auto; font-size: 1rem; padding: 1rem 1.2rem; border-left: 3px solid #007bff; font-style: italic; color: #333;">
+Tell me and I forget. Teach me and I remember. Involve me and I learn. 
+<p style="text-align: right; margin-top: 0.5rem; font-size: 1rem; font-style: normal;">-- Benjamin Franklin</p>
+<br><br>
+</blockquote>
+
 
 #### Sept. 2025-: Teaching at SZTU
 
