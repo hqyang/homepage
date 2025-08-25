@@ -3,10 +3,8 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: 
-    Tell me and I forget.<br>
-    Teach me and I remember.<br>
-    Involve me and I learn.<br>
-    – Benjamin Franklin
+    Tell me and I forget. Teach me and I remember. Involve me and I learn.<br>
+                                                       – Benjamin Franklin
 nav: true
 nav_order: 6
 ---
