@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-07 15:23:35
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2025-08-25 20:41:11
+# @Last Modified time: 2025-08-25 20:54:22
 # this file contains the social media links and usernames of the author
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
@@ -9,7 +9,7 @@
 acm_id: 81430666650 # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-dblp_url: 63/3939 # your DBLP profile url
+# dblp_url: 3939 # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: yanghaiqin@sztu.edu.cn # your email address
 # facebook_id: # your facebook id
@@ -28,7 +28,7 @@ ieee_id: 37278144300 # your ieeexplore.ieee.org/author/id
 # linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0000-0001-5453-476X # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
