@@ -55,13 +55,6 @@ ninja.data = [{
           window.open("https://dl.acm.org/profile/81430666650/", "_blank");
         },
       },{
-        id: 'social-dblp',
-        title: 'DBLP',
-        section: 'Socials',
-        handler: () => {
-          window.open("63/3939", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -81,6 +74,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://ieeexplore.ieee.org/author/37278144300/", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-5453-476X", "_blank");
         },
       },{
         id: 'social-rss',
