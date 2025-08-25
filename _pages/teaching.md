@@ -20,7 +20,7 @@ nav_order: 6
 
 #### Sept. 2025-: Teaching at SZTU
 
-- [Natural Language Processing](hqyang.github.io/nlp-fall25/)
+- [Natural Language Processing](https://hqyang.github.io/nlp-fall25/index.html)
 - Linear Algebra
 
 #### 2019-2021: Part-time Teaching at CUHK and HSUHK

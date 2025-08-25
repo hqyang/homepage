@@ -5,7 +5,7 @@ permalink: /
 subtitle: <div class="profile-info">
   Professor, B.Sc. (<a href="https://cs.nju.edu.cn/">NJU</a>), MPhil., Ph.D. (<a href="https://www.cse.cuhk.edu.hk/">CUHK</a>)<br>
   College of Big Data and Internet (Rm. C1-1707)<br>
-  <a href="https://www.sztu.edu.cn/">Shenzhen Technology University</a><br>
+  <a href="https://www.sztu.edu.cn/index.html">Shenzhen Technology University</a><br>
   <br><br>
   </div>
 
