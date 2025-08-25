@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /services/
-title: services
+title: Services
 description: Help the growth of AI research communities
 nav: true
 nav_order: 2
