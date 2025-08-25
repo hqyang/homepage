@@ -1451,23 +1451,23 @@ figure.cover {
 /* 添加到 _sass/custom.scss 或 assets/css/style.css */
 .quote-classic {
   /* 控制整体位置和宽度，避免过宽导致阅读分散 */
-  max-width: 800px; 
+  max-width: 800px;
   margin: 2.5rem auto; /* 上下留白 2.5rem，左右自动居中 */
   padding: 2rem 2.5rem; /* 内部留白，让文字不贴边 */
-  
+
   /* 视觉风格：浅灰背景 + 左侧蓝色细线，突出引用属性 */
   background-color: #f8f9fa; /* 极浅灰，不抢内容风头 */
   border-left: 4px solid #007bff; /* 左侧蓝色粗线，经典引用标识 */
-  
+
   /* 文字排版：斜体增强名言感，统一字体 */
-  font-family: 'Georgia', serif; /* 衬线字体，更显庄重（适配名言气质） */
+  font-family: "Georgia", serif; /* 衬线字体，更显庄重（适配名言气质） */
   color: #333; /* 深灰文字，比纯黑柔和 */
 }
 
 /* 拆分的句子：增加上下间距，强化韵律 */
 .quote-classic p {
   margin: 0.5rem 0; /* 句子之间留小间距，避免拥挤 */
-  font-size: 1.0rem; /* 字体稍大，提升可读性 */
+  font-size: 1rem; /* 字体稍大，提升可读性 */
   font-style: italic; /* 斜体突出“引用感” */
   line-height: 0.8; /* 行高适中，避免文字拥挤 */
 }
@@ -1478,5 +1478,5 @@ figure.cover {
   font-size: 1rem;
   color: #666; /* 浅灰，区分句子和作者 */
   font-style: normal; /* 取消斜体，让作者名更清晰 */
-  margin-top: .2rem; /* 与最后一句拉开距离 */
+  margin-top: 0.2rem; /* 与最后一句拉开距离 */
 }

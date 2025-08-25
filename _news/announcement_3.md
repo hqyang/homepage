@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 [**PARSQL: Enhancing Text-to-SQL through SQL Parsing and Reasoning**](https://aclanthology.org/2025.findings-acl.37.pdf) was accepted by ACL 2025. Congratulations to my intern, Yaxun!"
-
