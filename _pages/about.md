@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Dr. Haiqin Yang is a full-professor at [Shenzhen Technology University](www.sztu.edu.cn), with research interests in
+Dr. Haiqin Yang is a full-professor at [Shenzhen Technology University](https://www.sztu.edu.cn/index.html), with research interests in
 
 1. **Large Language Models (LLMs)/GenAI Basics**: New architecture exploration, modular efficiency, agentic AI, LLM Safety, etc.; and
 2. **GenAI + X**: Data analytics in finance, marketing, and education, etc.
