@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/homepage/publications/";
           },
         },{id: "nav-services",
-          title: "services",
+          title: "Services",
           description: "Help the growth of AI research communities",
           section: "Navigation",
           handler: () => {
