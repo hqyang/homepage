@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Tell me and I forget. Teach me and I remember. Involve me and I learn. – Benjamin Franklin",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/homepage/teaching/";
