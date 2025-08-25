@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/homepage/publications/";
           },
+        },{id: "nav-services",
+          title: "services",
+          description: "Help the growth of AI research communities",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/homepage/services/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Tell me and I forget. Teach me and I remember. Involve me and I learn. – Benjamin Franklin",
@@ -28,11 +35,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/homepage/books/the_godfather/";
-            },},{id: "news-parsql-enhancing-text-to-sql-through-sql-parsing-and-reasoning-was-acceptec-by-acl-2025-congratulations-to-my-intern-yaxun",
-          title: 'PARSQL: Enhancing Text-to-SQL through SQL Parsing and Reasoning was acceptec by ACL 2025....',
+            },},{id: "news-task-wrapped-continual-learning-in-task-oriented-dialogue-systems-appeared-at-naacl-2025-congratulations-to-my-collaborators",
+          title: 'Task-wrapped Continual Learning in Task-Oriented Dialogue Systems appeared at NAACL 2025. Congratulations to...',
           description: "",
-          section: "News",},{id: "news-parsql-enhancing-text-to-sql-through-sql-parsing-and-reasoning-was-acceptec-by-acl-2025-congratulations-to-my-intern-yaxun",
-          title: 'PARSQL: Enhancing Text-to-SQL through SQL Parsing and Reasoning was acceptec by ACL 2025....',
+          section: "News",},{id: "news-parsql-enhancing-text-to-sql-through-sql-parsing-and-reasoning-was-accepted-by-acl-2025-congratulations-to-my-intern-yaxun",
+          title: 'PARSQL: Enhancing Text-to-SQL through SQL Parsing and Reasoning was accepted by ACL 2025....',
           description: "",
           section: "News",},{id: "news-glad-to-start-serving-as-area-chair-for-acl-rolling-review-arr",
           title: 'Glad to start serving as Area Chair for ACL Rolling Review (ARR)',
