@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-05-16 12:59:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+[**PARSQL: Enhancing Text-to-SQL through SQL Parsing and Reasoning**](https://aclanthology.org/2025.findings-acl.37.pdf) was acceptec by ACL 2025. Congratulations to my intern, Yaxun!"
+

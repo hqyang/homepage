@@ -1,13 +1,15 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-21 16:12:55
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2025-08-23 11:14:13
+# @Last Modified time: 2025-08-25 16:23:25
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-author: Haiqin Yang
+first_name: Haiqin
+middle_name: 
+last_name: Yang | 杨海钦
 contact_note: >
   You can reach me by email: haiqin.yang@gmail.com or yanghaiqin@sztu.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -95,7 +97,7 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
   enabled: true
@@ -121,15 +123,15 @@ disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
-# If you have blog posts published on medium.com or other external sources,
+# If you have blog posts published on selected or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+# external_sources:
+#  - name: selected
+#    rss_url: https://selected/@al-folio/feed
+#  - name: Google Blog
+#    posts:
+#      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -201,6 +203,7 @@ exclude:
   - _pages/drowdown.md
   - _posts/
   - _projects/?_project.md
+  - _pages/services.md
 
 keep_files:
   - CNAME
@@ -400,7 +403,7 @@ enable_tooltips: false # enables automatic tooltip links generated for each sect
 enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
-enable_medium_zoom: true # enables image zoom feature (as on medium.com)
+enable_medium_zoom: true # enables image zoom feature (as on selected)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
