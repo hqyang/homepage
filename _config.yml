@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-21 16:12:55
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2025-08-25 18:26:58
+# @Last Modified time: 2025-08-25 20:33:35
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
@@ -186,7 +186,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - INSTALL.md
-  - LICENSE
+  - LICENSEsoc
   - lighthouse_results/
   - package.json
   - package-lock.json

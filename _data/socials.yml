@@ -1,23 +1,23 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-07 15:23:35
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2025-08-21 18:16:30
+# @Last Modified time: 2025-08-25 20:41:11
 # this file contains the social media links and usernames of the author
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-# acm_id: # your dl.acm.org/profile/id
+acm_id: 81430666650 # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-# dblp_url: # your DBLP profile url
+dblp_url: 63/3939 # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: yanghaiqin@sztu.edu.cn # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: hqyang # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
-# ieee_id: # your ieeexplore.ieee.org/author/id
+ieee_id: 37278144300 # your ieeexplore.ieee.org/author/id
 #inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
