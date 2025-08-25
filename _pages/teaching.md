@@ -20,9 +20,8 @@ Tell me and I forget. Teach me and I remember. Involve me and I learn. – Benja
 <blockquote style="max-width: 900px; margin: 1.2rem auto; font-size: 1rem; padding: 1rem 1.2rem; border-left: 3px solid #007bff; font-style: italic; color: #333;">
 Tell me and I forget. Teach me and I remember. Involve me and I learn. 
 <p style="text-align: right; margin-top: 0.5rem; font-size: 1rem; font-style: normal;">-- Benjamin Franklin</p>
-<br><br>
 </blockquote>
-
+<br><br>
 #### Sept. 2025-: Teaching at SZTU
 
 - [Natural Language Processing](https://hqyang.github.io/nlp-fall25/index.html)
