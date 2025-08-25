@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-21 16:12:55
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2025-08-25 16:23:25
+# @Last Modified time: 2025-08-25 18:00:58
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
@@ -203,7 +203,6 @@ exclude:
   - _pages/drowdown.md
   - _posts/
   - _projects/?_project.md
-  - _pages/services.md
 
 keep_files:
   - CNAME
