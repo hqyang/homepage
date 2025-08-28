@@ -15,7 +15,8 @@ nav_order: 2
 
 #### 2025
 
-- Area Chair for [ACL Rolling Review (ARR)](https://aclrollingreview.org/)
+- Area chair for [ICLR'26](https://iclr.cc/Conferences/2026/CallForPapers)
+- Area chair for [ACL Rolling Review (ARR)](https://aclrollingreview.org/)
 - Senior PC member for IJCAI'25
 
 #### 2024
