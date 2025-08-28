@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-21 16:12:55
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2025-08-25 20:33:35
+# @Last Modified time: 2025-08-28 17:02:39
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
@@ -186,7 +186,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - INSTALL.md
-  - LICENSEsoc
+  - LICENSE
   - lighthouse_results/
   - package.json
   - package-lock.json
@@ -390,7 +390,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: false # enables google analytics
+enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)
