@@ -44,7 +44,7 @@ ninja.data = [{
           section: "News",},{id: "news-glad-to-start-serving-as-area-chair-for-acl-rolling-review-arr",
           title: 'Glad to start serving as Area Chair for ACL Rolling Review (ARR)',
           description: "",
-          section: "News",},{id: "news-let-s-play-across-cultures-a-large-multilingual-multicultural-benchmark-for-assessing-language-models-understanding-of-sports-and-intrinsic-evaluation-of-unlearning-using-parametric-knowledge-traces-were-both-accepted-by-emnlp-2025-main-conference-congratulations-to-my-collaborators-and-my-intern-yihuai",
+          section: "News",},{id: "news-let-s-play-across-cultures-a-large-multilingual-multicultural-benchmark-for-assessing-language-models-understanding-of-sports-and-intrinsic-evaluation-of-unlearning-using-parametric-knowledge-traces-were-both-accepted-by-emnlp-2025-main-conference-congratulations-to-my-collaborators",
           title: 'Let‘s Play Across Cultures: A Large Multilingual, Multicultural Benchmark for Assessing Language Models’...',
           description: "",
           section: "News",},{id: "news-glad-to-be-invited-to-serve-as-an-area-chair-for-iclr-26",
