@@ -47,6 +47,9 @@ ninja.data = [{
           section: "News",},{id: "news-let-s-play-across-cultures-a-large-multilingual-multicultural-benchmark-for-assessing-language-models-understanding-of-sports-and-intrinsic-evaluation-of-unlearning-using-parametric-knowledge-traces-were-both-accepted-by-emnlp-2025-main-conference-congratulations-to-my-collaborators-and-my-intern-yihuai",
           title: 'Let‘s Play Across Cultures: A Large Multilingual, Multicultural Benchmark for Assessing Language Models’...',
           description: "",
+          section: "News",},{id: "news-glad-to-be-invited-to-serve-as-an-area-chair-for-iclr-26",
+          title: 'Glad to be invited to serve as an Area Chair for ICLR’26',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
