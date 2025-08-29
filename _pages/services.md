@@ -13,21 +13,18 @@ nav_order: 2
 
 <!-- {% include bib_search.liquid %} -->
 
-#### 2025
+## Editorial Services
+- **Associate editor**: [Human-Centric Intelligent Systems](https://link.springer.com/journal/44230)
 
-- Area chair for [ICLR'26](https://iclr.cc/Conferences/2026/CallForPapers)
-- Area chair for [ACL Rolling Review (ARR)](https://aclrollingreview.org/)
-- Senior PC member for IJCAI'25
+## Conference Organization
+- **Program co-chair**: [IEEE/WIC WI-IAT'24](https://www.wi-iat.com/wi-iat2024/projects-Organization.html), [ICONIP'20](https://www.apnns.org/ICONIP2020/#[object%20Object])
+- **Proceeding co-chair**: [WWW'20](https://archives.iw3c2.org/www2020/committees/)
 
-#### 2024
+## Academic Services
 
-- Program co-chair for [IEEE/WIC WI-IAT'24](https://www.wi-iat.com/wi-iat2024/projects-Organization.html)
-- Senior PC member for IJCAI'24
+- **Area chair**: [ICLR'26](https://iclr.cc/Conferences/2026/CallForPapers), [ACL Rolling Review (ARR)](https://aclrollingreview.org/)
+- **Senior PC member**: IJCAI'25, IJCAI'24
 
-#### 2022
 
-- Top reviewer for [UAI'22](https://www.auai.org/uai2022/top_program_committee)
 
-#### 2021
 
-- Associate editor for [Human-Centric Intelligent Systems](https://link.springer.com/journal/44230)
