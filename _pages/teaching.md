@@ -24,7 +24,7 @@ Tell me and I forget. Teach me and I remember. Involve me and I learn.
 <br><br>
 #### Sept. 2025-: Teaching at SZTU
 
-- [Natural Language Processing](https://hqyang.github.io/nlp-fall25/index.html)
+- Natural Language Processing <!--](https://hqyang.github.io/nlp-fall25/index.html)-->
 - Linear Algebra
 
 #### 2019-2021: Part-time Teaching at CUHK and HSUHK
