@@ -53,8 +53,8 @@ ninja.data = [{
           section: "News",},{id: "news-sparse-adapter-fusion-for-continual-learning-in-nlp-was-both-accepted-by-ecal-2025-main-conference-congratulations-to-my-collaborators",
           title: 'Sparse Adapter Fusion for Continual Learning in NLP was both accepted by ECAL...',
           description: "",
-          section: "News",},{id: "news-glad-to-serve-different-roles-for-acl-arr-26-iclr-26-icml-26-ijcai-26-uai-26",
-          title: 'Glad to serve different roles for [ACL ARR’26]ICLR’26, ICML’26, IJCAI’26, UAI’26.',
+          section: "News",},{id: "news-glad-to-serve-different-roles-for-acl-arr-26-icml-26-ijcai-26-uai-26",
+          title: 'Glad to serve different roles for ACL ARR’26, ICML’26, IJCAI’26, UAI’26.',
           description: "",
           section: "News",},{
         id: 'social-email',
