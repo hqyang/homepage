@@ -26,3 +26,4 @@ nav_order: 2
 
 - **Area chair**: [ICLR'26](https://iclr.cc/Conferences/2026/CallForPapers), [ACL Rolling Review (ARR)](https://aclrollingreview.org/)
 - **Senior PC member**: IJCAI'25, IJCAI'24
+- **PC member**: [ICML'26](https://icml.cc/Conferences/2026/Dates), [IJCAI'26](https://2026.ijcai.org/important-dates/), [KDD'26](https://kdd2026.kdd.org/), [UAI'26](https://www.auai.org/uai2026/important_dates)
