@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Glad to start serving as Area Chair for [ACL Rolling Review (ARR)](https://aclrollingreview.org/)
+Glad to start serving as Area Chair for [ACL Rolling Review (ARR)](https://aclrollingreview.org/).

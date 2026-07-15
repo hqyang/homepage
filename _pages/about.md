@@ -31,8 +31,8 @@ latest_posts:
 
 I am a full professor at [Shenzhen Technology University](https://www.sztu.edu.cn/index.html), with research interests in
 
-1. **Large Language Models (LLMs)/GenAI Basics**: New architecture exploration, modular efficiency, agentic AI, AI safety, etc.; and
-2. **GenAI + X**: Data analytics, affective computing, and education, etc.
+1. **Large Language Models (LLMs)/GenAI Basics**: LLM Understanding (EMNLP'25; ECML PKDD'26; ACL'26), modular efficiency (EACL'26), agentic AI (ACL'26), etc.; and
+2. **GenAI + X**: Data analytics (ACL'25; ACL'26), affective computing, and education, etc.
 
 Before that, he worked in R&D at IDEA, Ping An Life, etc. He has also served as an adjunct associate professor in the Department of Decision Sciences and Managerial Economics at The Chinese University of Hong Kong (CUHK), and as an assistant professor in the Department of Computing, where he was the deputy director of the Deep Learning Research and Application Centre at Hang Seng Management selected. He earned his Ph.D. in the Department of Computer Science and Engineering at CUHK, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/~king) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/~lyu). <!--Additionally, he held an MPhil degree from the same department at CUHK and a Bachelor of Science degree from the Computer Science and Technology Department at Nanjing University.-->
 
