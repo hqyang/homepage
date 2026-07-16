@@ -56,7 +56,7 @@ ninja.data = [{
           section: "News",},{id: "news-glad-to-serve-different-roles-for-acl-arr-26-icml-26-ijcai-26-kdd-26-uai-26",
           title: 'Glad to serve different roles for ACL ARR’26, ICML’26, IJCAI’26, KDD’26, UAI’26.',
           description: "",
-          section: "News",},{id: "news-reex-sql-reasoning-with-execution-aware-reinforcement-learning-for-text-to-sql-and-beyond-prompt-engineering-a-systematic-analysis-of-prompt-lexical-sensitivity-and-its-impacts-on-quality-appeared-at-acl-2026-and-nrityam-language-models-meet-art-and-heritage-of-dance-was-accepted-by-ecml-pkdd-2026-congratulations-to-my-collaborators",
+          section: "News",},{id: "news-reex-sql-reasoning-with-execution-aware-reinforcement-learning-for-text-to-sql-and-beyond-prompt-engineering-a-systematic-analysis-of-prompt-lexical-sensitivity-and-its-impacts-on-quality-appeared-at-acl-2026-congratulations-to-my-collaborators",
           title: 'ReEx-SQL: Reasoning with Execution-Aware Reinforcement Learning for Text-to-SQL and Beyond Prompt Engineering: A...',
           description: "",
           section: "News",},{
