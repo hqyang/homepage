@@ -59,6 +59,9 @@ ninja.data = [{
           section: "News",},{id: "news-reex-sql-reasoning-with-execution-aware-reinforcement-learning-for-text-to-sql-and-beyond-prompt-engineering-a-systematic-analysis-of-prompt-lexical-sensitivity-and-its-impacts-on-quality-appeared-at-acl-2026-congratulations-to-my-collaborators",
           title: 'ReEx-SQL: Reasoning with Execution-Aware Reinforcement Learning for Text-to-SQL and Beyond Prompt Engineering: A...',
           description: "",
+          section: "News",},{id: "news-nrityam-language-models-meet-art-and-heritage-of-dance-was-accepted-by-ecml-pkdd-2026-congratulations-to-my-collaborators",
+          title: 'NRITYAM: Language Models Meet Art and Heritage of Dance was accepted by ECML...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
