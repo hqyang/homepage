@@ -23,7 +23,7 @@ nav_order: 2
 - **Proceeding co-chair**: [WWW'20](https://archives.iw3c2.org/www2020/committees/)
 
 ## Academic Services
-
-- **Area chair**: [ICLR'26](https://iclr.cc/Conferences/2026/CallForPapers), [ACL Rolling Review (ARR)](https://aclrollingreview.org/)
+- **Board of Governors**: [APNNS (2026-2027)](https://www.apnns.org/board-of-governors/)
+- **Area chair**: [NeurIPS'26](https://neurips.cc/Conferences/2026), [ICLR'26](https://iclr.cc/Conferences/2026/CallForPapers), [ACL Rolling Review (ARR)](https://aclrollingreview.org/)
 - **Senior PC member**: IJCAI'25, IJCAI'24
 - **PC member**: [ICML'26](https://icml.cc/Conferences/2026/Dates), [IJCAI'26](https://2026.ijcai.org/important-dates/), [KDD'26](https://kdd2026.kdd.org/), [UAI'26](https://www.auai.org/uai2026/important_dates)
