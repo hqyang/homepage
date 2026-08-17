@@ -1,3 +1,9 @@
+/**
+ * @Author: Haiqin Yang
+ * @Date:   2025-08-07 15:23:35
+ * @Last Modified by:   Haiqin Yang
+ * @Last Modified time: 2026-08-17 18:49:44
+ */
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
@@ -21,5 +27,6 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/regular",
   "tabler-icons/tabler-icons.scss",
   "tabler-icons/tabler-icons-filled.scss",
-  "tabler-icons/tabler-icons-outline.scss"
+  "tabler-icons/tabler-icons-outline.scss",
+  "custom"
 ;
