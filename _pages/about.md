@@ -35,8 +35,10 @@ I am a Full Professor at [Shenzhen Technology University](https://www.sztu.edu.c
 - **GenAI + X**: applications in data analytics ([PARSQL, ACL'25](https://aclanthology.org/2025.findings-acl.37/); [ReEx-SQL, ACL'26](https://aclanthology.org/2026.acl-long.35/)), affective computing ([One-ASQP, ACL'23](https://aclanthology.org/2023.findings-acl.777/); [IJCAI'21](https://arxiv.org/pdf/2106.14614)), and education, etc.
 
 <div class="announcement-box">
-  <strong>News:</strong>
-  I am honored to have been elected a <a href="https://www.apnns.org/apnns-fellow-fapnns/" target="_blank" rel="noopener noreferrer">Fellow of APNNS</a>.
+  I am honored to have been elected a
+  <a href="https://www.apnns.org/apnns-fellow-fapnns/" target="_blank" rel="noopener noreferrer">
+    Fellow of APNNS
+  </a>.
 </div>
 
 Previously, I worked in R&D at IDEA, Ping An Life, and other organisations. I have also held academic appointments at The Chinese University of Hong Kong (CUHK) as an Adjunct Associate Professor in the Department of Decision Sciences and Managerial Economics, and at Hang Seng Management College (now rebranded as Hang Seng University of Hong Kong) as an Assistant Professor in the Department of Computing, where I also served as Deputy Director of the Deep Learning Research and Application Centre. I earned my Ph.D. from the Department of Computer Science and Engineering at CUHK, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/~king) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/~lyu). I also hold an MPhil from the same department at CUHK and a Bachelor of Science degree from the Department of Computer Science and Technology at Nanjing University.
