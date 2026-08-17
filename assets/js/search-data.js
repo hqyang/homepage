@@ -68,6 +68,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-course-projects-were-accepted-by-iconip-2026-congratulations-to-my-junior-students-yaoshuo-and-xiaochun-looking-forward-to-meeting-you-in-melbourne-australia",
           title: 'Two course projects were accepted by ICONIP 2026. Congratulations to my junior students,...',
           description: "",
+          section: "News",},{id: "news-i-am-honored-to-have-been-elected-a-fellow-of-apnns",
+          title: 'I am honored to have been elected a Fellow of APNNS.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
