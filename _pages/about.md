@@ -31,8 +31,13 @@ latest_posts:
 
 I am a Full Professor at [Shenzhen Technology University](https://www.sztu.edu.cn/index.html), with research interests in
 
-- **Large Language Models (LLMs)/GenAI Foundations**: LLM understanding (EMNLP'25; ECML PKDD'26; ACL'26), modular efficiency (EACL'26), and Agentic AI (ACL'26), etc.; and
-- **GenAI + X**: applications in data analytics (ACL'25; ACL'26), affective computing (ACL'23; IJCAI'21), and education, etc.
+- **Large Language Models (LLMs)/GenAI Foundations**: LLM understanding ([ConceptVectors, EMNLP'25](https://aclanthology.org/2025.emnlp-main.985/);[CultSportQA, EMNLP'25](https://www.arxiv.org/pdf/2510.01247); [NRITYAM, ECML PKDD'26](https://arxiv.org/pdf/2606.19727); [Prompt Sensitivity Analysis, ACL'26](https://aclanthology.org/2026.findings-acl.2084/)), modular efficiency ([SAFM, EACL'26](https://aclanthology.org/2026.eacl-long.37/)), and Agentic AI ([NLI Survey, IEEE TKDE'24](https://arxiv.org/abs/2310.17894)), etc.; and
+- **GenAI + X**: applications in data analytics ([PARSQL, ACL'25](https://aclanthology.org/2025.findings-acl.37/); [ReEx-SQL, ACL'26](https://aclanthology.org/2026.acl-long.35/)), affective computing ([One-ASQP, ACL'23](https://aclanthology.org/2023.findings-acl.777/); [IJCAI'21](https://arxiv.org/pdf/2106.14614)), and education, etc.
+
+<div class="announcement-box">
+  <strong>News:</strong>
+  I am honored to have been elected a [Fellow of APNNS](https://www.apnns.org/apnns-fellow-fapnns/).
+</div>
 
 Previously, I worked in R&D at IDEA, Ping An Life, and other organisations. I have also held academic appointments at The Chinese University of Hong Kong (CUHK) as an Adjunct Associate Professor in the Department of Decision Sciences and Managerial Economics, and at Hang Seng Management College (now rebranded as Hang Seng University of Hong Kong) as an Assistant Professor in the Department of Computing, where I also served as Deputy Director of the Deep Learning Research and Application Centre. I earned my Ph.D. from the Department of Computer Science and Engineering at CUHK, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/~king) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/~lyu). I also hold an MPhil from the same department at CUHK and a Bachelor of Science degree from the Department of Computer Science and Technology at Nanjing University.
 
