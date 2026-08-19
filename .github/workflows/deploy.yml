@@ -1,3 +1,7 @@
+# @Author: Haiqin Yang
+# @Date:   2025-08-07 15:23:35
+# @Last Modified by:   Haiqin Yang
+# @Last Modified time: 2026-08-19 10:22:43
 name: Deploy site
 
 on:
@@ -70,7 +74,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js ⚡
+        uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+          cache: "npm" # caching npm dependencies
+          
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
