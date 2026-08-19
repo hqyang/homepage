@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-07 15:23:35
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2026-08-19 11:28:45
+# @Last Modified time: 2026-08-19 11:45:55
 # Lighthouse-Badger-Easy | GitHub Action Workflow
 #
 # Description: Generates, adds & updates manually/automatically Lighthouse badges & reports from one/multiple input URL(s) to the current repository & main branch with minimal settings
@@ -18,7 +18,7 @@ name: "Lighthouse Badger"
 
 # INPUTS as Secrets (env) for not manually triggered workflows
 env:
-  URLS: https://alshedivat.github.io/al-folio/
+  URLS: https://hqyang.github.io/homepage/ # input URL(s) to generate Lighthouse badges & reports for, e.g. https://example.com/, https://example.com/page1/, https://example.com/page2/
   # If any of the following env is blank, a default value is used instead
   REPO_BRANCH: "${{ github.repository }} master" # target repository & branch e.g. 'dummy/mytargetrepo main'
   MOBILE_LIGHTHOUSE_PARAMS: "--only-categories=performance,accessibility,best-practices,seo --throttling.cpuSlowdownMultiplier=2"
