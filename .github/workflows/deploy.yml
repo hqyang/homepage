@@ -81,7 +81,7 @@ jobs:
         with:
           node-version: "22"
           cache: "npm" # caching npm dependencies
-          
+
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
