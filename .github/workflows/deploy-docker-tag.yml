@@ -1,3 +1,7 @@
+# @Author: Haiqin Yang
+# @Date:   2025-08-07 15:23:35
+# @Last Modified by:   Haiqin Yang
+# @Last Modified time: 2026-08-19 11:28:04
 name: Docker Image CI (Upload Tag)
 
 on:
@@ -20,7 +24,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3

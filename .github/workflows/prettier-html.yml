@@ -1,3 +1,7 @@
+# @Author: Haiqin Yang
+# @Date:   2025-08-07 15:23:35
+# @Last Modified by:   Haiqin Yang
+# @Last Modified time: 2026-08-19 11:24:37
 name: Prettify gh-pages
 
 on:
@@ -8,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout gh-pages branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: gh-pages
 
@@ -16,7 +20,7 @@ jobs:
         run: find . -type f -name "*.html" -exec sed -i 's/<\/source>//g' {} +
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
 
       - name: Install Prettier
         run: npm install -g prettier

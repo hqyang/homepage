@@ -1,3 +1,7 @@
+# @Author: Haiqin Yang
+# @Date:   2025-08-07 15:23:35
+# @Last Modified by:   Haiqin Yang
+# @Last Modified time: 2026-08-19 11:27:41
 name: Check for broken links
 
 on:
@@ -44,7 +48,7 @@ jobs:
     # only run on the main repo
     if: github.repository == 'alshedivat/al-folio'
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Link Checker 🔗
         uses: lycheeverse/lychee-action@v2.1.0

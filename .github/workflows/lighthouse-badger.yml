@@ -1,3 +1,7 @@
+# @Author: Haiqin Yang
+# @Date:   2025-08-07 15:23:35
+# @Last Modified by:   Haiqin Yang
+# @Last Modified time: 2026-08-19 11:28:45
 # Lighthouse-Badger-Easy | GitHub Action Workflow
 #
 # Description: Generates, adds & updates manually/automatically Lighthouse badges & reports from one/multiple input URL(s) to the current repository & main branch with minimal settings
@@ -46,12 +50,12 @@ jobs:
           echo "BRANCH=$BRANCH" >> $GITHUB_ENV
         env:
           REPO_BRANCH: ${{ env.REPO_BRANCH }}
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           repository: ${{ env.REPOSITORY }}
           token: ${{ secrets.LIGHTHOUSE_BADGER_TOKEN }}
           ref: ${{ env.BRANCH }}
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           repository: "myactionway/lighthouse-badges"
           path: temp_lighthouse_badges_nested
