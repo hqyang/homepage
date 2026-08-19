@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-07 15:23:35
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2026-08-19 17:29:26
+# @Last Modified time: 2026-08-19 17:46:16
 name: Deploy site
 
 on:
@@ -101,13 +101,13 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
-          sudo sed -i 's|http://azure.archive.ubuntu.com/ubuntu|http://archive.ubuntu.com/ubuntu|g' /etc/apt/sources.list.d/*.sources 2>/dev/null || true
-          sudo sed -i 's|http://azure.archive.ubuntu.com/ubuntu|http://archive.ubuntu.com/ubuntu|g' /etc/apt/sources.list 2>/dev/null || true
-          sudo apt-get update -o Acquire::Retries=3 -o Acquire::http::Timeout=10
-          sudo apt-get install -y imagemagick
+          if ! command -v convert &> /dev/null; then
+            timeout 120 sudo apt-get update -o Acquire::Retries=3 -o Acquire::http::Timeout=10 || echo "apt update failed/timed out, trying install anyway"
+            sudo apt-get install -y imagemagick
+          fi
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
-          bundle exec jekyll build      
+          bundle exec jekyll build
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
