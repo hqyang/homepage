@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-07 15:23:35
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2026-08-19 11:14:11
+# @Last Modified time: 2026-08-19 11:55:18
 name: Deploy site
 
 on:
@@ -88,7 +88,7 @@ jobs:
           bundler-cache: true
 
       - name: Setup Python 🐍
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.13"
           cache: "pip" # caching pip dependencies
