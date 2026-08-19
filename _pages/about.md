@@ -35,7 +35,7 @@ I am a Full Professor at [Shenzhen Technology University](https://www.sztu.edu.c
 - **GenAI + X**: applications in data analytics ([PARSQL, ACL'25](https://aclanthology.org/2025.findings-acl.37/); [ReEx-SQL, ACL'26](https://aclanthology.org/2026.acl-long.35/)), affective computing ([One-ASQP, ACL'23](https://aclanthology.org/2023.findings-acl.777/); [IJCAI'21](https://arxiv.org/pdf/2106.14614)), and education, etc.
 
 <div class="announcement-box">
-  <strong style="color:red;">News:</strong>I am honored to have been elected a
+  <strong style="color:red;">News:</strong> I am honored to have been elected a
   <a href="https://www.apnns.org/apnns-fellow-fapnns/" target="_blank" rel="noopener noreferrer">
     Fellow of APNNS
   </a>.
