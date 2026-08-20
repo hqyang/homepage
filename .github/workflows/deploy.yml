@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2025-08-07 15:23:35
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2026-08-20 20:06:15
+# @Last Modified time: 2026-08-20 20:35:03
 name: Deploy site
 
 on:
@@ -108,15 +108,6 @@ jobs:
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
-      - name: Purge unused CSS 🧹
-        run: |
-          npm install -g purgecss
-          #purgecss -c purgecss.config.js
-          purgecss \
-            --content '_site/**/*.html' '_site/**/*.js' \
-            --css '_site/assets/css/*.css' \
-            --output '_site/assets/css/' \
-            --safelist hidden collapse show bibtex abstract award more-authors
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
