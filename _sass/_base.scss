@@ -2,7 +2,7 @@
  * @Author: Haiqin Yang
  * @Date:   2025-08-07 15:23:35
  * @Last Modified by:   Haiqin Yang
- * @Last Modified time: 2026-08-20 22:12:29
+ * @Last Modified time: 2026-08-21 13:16:58
  */
 /*******************************************************************************
  * Styles for the base elements of the theme.
@@ -839,38 +839,6 @@ footer.sticky-bottom {
             text-decoration: underline;
           }
         }
-      }
-
-      .hidden {
-        font-size: 0.875rem;
-        max-height: 0px;
-        overflow: hidden;
-        text-align: justify;
-        transition-property: 0.15s ease;
-        -moz-transition: 0.15s ease;
-        -ms-transition: 0.15s ease;
-        -o-transition: 0.15s ease;
-        transition: all 0.15s ease;
-
-        p {
-          line-height: 1.4em;
-          margin: 10px;
-        }
-
-        pre {
-          font-size: 1em;
-          line-height: 1.4em;
-          padding: 10px;
-        }
-      }
-
-      .hidden.open {
-        max-height: 100em;
-        transition-property: 0.15s ease;
-        -moz-transition: 0.15s ease;
-        -ms-transition: 0.15s ease;
-        -o-transition: 0.15s ease;
-        transition: all 0.15s ease;
       }
 
       div.abstract.hidden {
