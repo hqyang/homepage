@@ -1,7 +1,7 @@
 # @Author: Haiqin Yang
 # @Date:   2026-08-19 11:30:02
 # @Last Modified by:   Haiqin Yang
-# @Last Modified time: 2026-08-19 11:33:35
+# @Last Modified time: 2026-08-21 08:43:58
 name: Prettier code formatter
 
 on:
@@ -25,8 +25,10 @@ jobs:
         uses: actions/setup-node@v7
         with:
           node-version: "24"
-      - name: Install Prettier 💾
-        run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
+      #- name: Install Prettier 💾
+      #  run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
+      - name: Install dependencies 💾
+        run: npm ci
       - name: Prettier Check 🔎
         id: prettier
         run: npx prettier . --check
