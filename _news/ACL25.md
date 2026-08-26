@@ -2,6 +2,7 @@
 layout: post
 date: 2025-05-16 12:59:00+0800
 inline: true
+featured: true
 related_posts: false
 ---
 

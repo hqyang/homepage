@@ -2,6 +2,7 @@
 layout: post
 date: 2026-07-3 12:59:00+0800
 inline: true
+featured: true
 related_posts: false
 ---
 
